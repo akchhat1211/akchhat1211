@@ -36,16 +36,6 @@ Currently building my skills in Vulnerability Assessment and Penetration Testing
 
 ---
 
-## 📜 Certifications
-
-- ✅ Introduction to Ethical Hacking  
-- ✅ Ethical Hacking for Mobile Platforms and Network Architecture  
-- ✅ Cyber Forensics  
-- ✅ Introduction to Cybersecurity  
-- ✅ C Programming for Beginners
-
----
-
 ## 📂 Projects & Labs
 
 > 🛠 Ongoing: Working on VAPT practice labs and reporting exercises  
