@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akchhat
 
 🎓 I’m a Cybersecurity student at **Vels University**  
-🛡️ Aspiring **Penetration Tester | Ethical Hacker | VAPT Analyst**  
+🛡️ Aspiring **Penetration Tester | Ethical Hacker | VAPT**  
 📍 Based in Chennai, India  
 📧 Reach me at: akchhat12112005@gmail.com  
 
