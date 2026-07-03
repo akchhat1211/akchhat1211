@@ -1,55 +1,60 @@
-# 👋 Hi, I’m Akchhat
+# Akchhat
 
-🎓 I’m a Cybersecurity student at **Vels University**  
-🛡️ Aspiring **Penetration Tester | Ethical Hacker | VAPT**  
-📍 Based in Chennai, India  
-📧 Reach me at: akchhat12112005@gmail.com  
+**Cybersecurity Undergraduate | Red Teaming & Offensive Security**
 
----
-
-## 🔐 About Me
-
-I'm passionate about ethical hacking and cybersecurity, with hands-on experience in labs and simulations.  
-Currently building my skills in Vulnerability Assessment and Penetration Testing (VAPT), network security, and exploit development.
+B.Sc. Computer Science (Cybersecurity), Vels Institute of Science, Technology & Advanced Studies (VISTAS), Chennai, India
+📧 akchhatoffsec@outlook.com
 
 ---
 
-### 🛠 Technical Skills
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Ethical Hacking & Reconnaissance
-- Network Scanning & Enumeration (Nmap, Wireshark)
-- Web App Security Testing (Burp Suite, OWASP Top 10)
-- Exploitation Tools (Metasploit, SQLMap)
-- Linux & Windows Security Basics
-- Mobile Security Testing
-- Cyber Forensics (Investigation & Evidence Handling)
-- C Programming for Security Scripting
-- Bash & Python Basics
+## About
 
-### 🤝 Soft Skills
-- Analytical Thinking & Problem Solving  
-- Attention to Detail  
-- Ethical Responsibility  
-- Strong Communication  
-- Team Collaboration  
-- Adaptability & Continuous Learning
+Cybersecurity undergraduate with a focus on red teaming and offensive security. I have hands-on experience conducting simulated attack operations across network, web, and Active Directory environments. I maintain a dedicated home lab for continuous practice and produce technical content covering offensive security techniques and methodology.
 
 ---
 
-## 📂 Projects & Labs
+## Certifications
 
-> 🛠 Ongoing: Working on VAPT practice labs and reporting exercises  
+- **CRTA** – Certified Red Team Analyst, CyberWarFare Labs
+- **AD-RTS** – Active Directory Red Team Specialist
+- **Web-RTA** – Web Red Team Analyst
 
 ---
 
-## 🚀 Let's Connect
+## Technical Skills
 
-- 📧 Email: [akchhat12112005@gmail.com](mailto:akchhat12112005@gmail.com)  
-- 💼 LinkedIn: www.linkedin.com/in/akchhat-701234306 
-- 🌐 Portfolio (Coming Soon)  
-- 🧠 TryHackMe: akchhat12112005
+**Red Teaming & Exploitation**
+- Active Directory attack chains
+- ADCS exploitation
+- Web application security testing
+- Vulnerability assessment & penetration testing
+- Network scanning & enumeration
 
-  
+**OPSEC & Evasion**
+- EDR/AV evasion
+- C2 frameworks — Sliver
+
+**General**
+- Linux & Windows security
+- Scripting — Python, Bash
+
+---
+
+## Projects & Labs
+
+- **Home Red Team Lab** — Active Directory environment (Windows Server 2019 DC + Windows 10 clients) used for simulating full attack chains and tooling research
+- **Technical Writeups** — Published on Medium, HackSmarter, and WebVerse Pro
+- **YouTube Content** — Offensive security walkthroughs and red team methodology videos
+
+---
+
+## Connect
+
+- Email: [akchhatoffsec@outlook.com](mailto:akchhatoffsec@outlook.com)
+- LinkedIn: [linkedin.com/in/akchhat-701234306](https://www.linkedin.com/in/akchhat-701234306)
+- YouTube: [@akchhat](https://youtube.com/@akchhat)
+- TryHackMe: akchhat12112005 — Top 2% Global
+
 ---
 
 > "Security is not a product, but a process." – Bruce Schneier
