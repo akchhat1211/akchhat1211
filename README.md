@@ -15,6 +15,7 @@ Cybersecurity undergraduate with a focus on red teaming and offensive security. 
 
 ## Certifications
 
+- **CRTP** – Certified Red Team Professional, Altered Security
 - **CRTA** – Certified Red Team Analyst, CyberWarFare Labs
 - **AD-RTS** – Active Directory Red Team Specialist
 - **Web-RTA** – Web Red Team Analyst
